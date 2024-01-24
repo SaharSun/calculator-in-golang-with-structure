@@ -48,7 +48,7 @@ func main() {
 
 	fmt.Printf("First Number:")
 	fmt.Scanln(&number1)
-	fmt.Printf("operator:")
+	fmt.Printf("operator(+_*/^√):")
 	fmt.Scanln(&operator)
 	fmt.Printf("Second Number:")
 	fmt.Scanln(&number2)
